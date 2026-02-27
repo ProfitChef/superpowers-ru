@@ -1,0 +1,12 @@
+{
+  "name": "superpowers-ru-dev",
+  "description": "Маркетплейс для Superpowers на русском языке",
+  "plugins": [
+    {
+      "name": "superpowers-ru",
+      "description": "Библиотека навыков для Claude Code на русском языке: TDD, отладка, совместная работа и проверенные методики",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}

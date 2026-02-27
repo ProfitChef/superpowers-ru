@@ -1,0 +1,13 @@
+{
+  "name": "superpowers-ru",
+  "description": "Библиотека навыков для Claude Code на русском языке: TDD, отладка, совместная работа и проверенные методики",
+  "version": "1.0.0",
+  "author": {
+    "name": "Superpowers-RU Community",
+    "url": "https://github.com/anthropics/superpowers-ru"
+  },
+  "homepage": "https://github.com/anthropics/superpowers-ru",
+  "repository": "https://github.com/anthropics/superpowers-ru",
+  "license": "MIT",
+  "keywords": ["skills", "tdd", "debugging", "collaboration", "best-practices", "workflows", "russian", "русский"]
+}
